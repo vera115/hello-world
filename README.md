@@ -1,2 +1,5 @@
 # hello-world
-first try
+
+int x = 0;
+int y = 1;
+
